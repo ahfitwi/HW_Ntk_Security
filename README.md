@@ -9,5 +9,7 @@ detection via packet analysis, port scanning, port filtering, and based on prede
 attributes of operating systems. For the sake of simplicity the implementation test, all the
 terminals and the Raspberry will be placed in the same subnet.
 
+The program was adopted from other classes
+
 
 Keywords: Internet, ARPANET, TCP/IP, Intranet security, Raspberry PI, security policies
